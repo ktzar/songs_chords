@@ -1,6 +1,8 @@
 # Dover - Tragedy
-Bb Major
-140 BPM
+- Key: Bb Major
+- BPM: 140
+
+
 ```
 A          E           F#m         D                  A
 Oh oh oh oh oh it's such a tragedy, The way you look at me
