@@ -1,3 +1,7 @@
+# Dover - Tragedy
+Bb Major
+140 BPM
+```
 A          E           F#m         D                  A
 Oh oh oh oh oh it's such a tragedy, The way you look at me
    E                F#m              D             A
@@ -29,3 +33,4 @@ Last time I saw you You were so much brighter
 
   E             F#m         D     E
 Now you're just stupefied
+```
