@@ -35,4 +35,48 @@ Last time I saw you You were so much brighter
 
   E             F#m         D     E
 Now you're just stupefied
+
+I never knew how to survive
+I'm deep in anger
+Will I see you one more time?
+This is my sweet surrender
+I just wanna say sometimes
+I pray for you to come back
+And just save my life
+I will fight my last contender
+Will I see you one more time
+Before goodbye
+Will I see you one more time
+Will I see you one more time
+Just one more time
+Traces of hate
+A failed crying for help
+Life is too long
+Who needs all the pain?
+I fell apart
+And you watched unfazed
+Don't let me down tonight
+Oh oh oh oh oh you said
+It's time to pretend
+Life is too long
+Who can bare the pain?
+Oh oh oh oh oh you changed and
+I stayed the same
+This time I'm gonna play
+To win
+I never knew how to survive
+I'm deep in anger
+Will I see you one more time?
+This is my sweet surrender
+I just wanna say sometimes
+I pray for you to come back
+And just save my life
+I will fight my last contender
+Will I see you one more time
+Before goodbye
+Before goodbye
+Before goodbye (one more time)
+Before goodbye (one more time)
+Before goodbye
+Before goodbye
 ```
