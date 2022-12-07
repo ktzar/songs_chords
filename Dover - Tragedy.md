@@ -1,7 +1,7 @@
 # Dover - Tragedy
 - Key: Bb Major
 - BPM: 140
-
+- Capo 1
 
 ```
 A          E           F#m         D                  A
