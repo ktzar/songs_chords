@@ -1,6 +1,6 @@
 Entre Carn i Os - Zetak
 ====
-
+```tab
 Capo 3
 
 Am                      F
@@ -67,3 +67,4 @@ I sé que et puc abrigar
 I sé que et puc abrigar
 
 I sé que et puc abrigar
+```
