@@ -1,3 +1,4 @@
+```tab
 [Intro]
                F     C
 Mendikate honek lotuta
@@ -85,3 +86,4 @@ G           Am   G   F
 Zeuen urratsa geurea da
          C        G
 Ta itzulera denona
+```
