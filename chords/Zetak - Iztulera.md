@@ -1,89 +1,89 @@
 ```tab
 [Intro]
-               F     C
+               A     E
 Mendikate honek lotuta
- 
-G  Am  F  C   G
+
+B  C#m  A  E   B
 Eh Oh Ah x5
- 
+
 [Verse]
-Am              F           C
+C#m              A           E
 Zurekin mintzo direla diote xoriek
-   Am              F           C
+   C#m              A           E
 Esan zer kantaegin dizuten (L)
-                Am
+                C#m
 Zein gertu gauden
-                F
+                A
 Sentitzen al den
-         C
+         E
 Amaiurren
-         Am
+         C#m
 Hori diote (L)
-            F
+            A
 Baigorrin ere (L)
-            C
+            E
 Mugalari hoiek (L)
- 
+
 [Chorus]
-            F          C
+            A          E
 Mendikate honek lotuta
-G      Am    G     F
+B      C#m    B     A
 Zure zauria nirea da
-C             G
+E             B
 Ta kantu hau biona
- 
-G  Am  F  C   G
+
+B  C#m  A  E   B
 Eh Oh Ah x5
- 
+
 [Verse]
-     Am      F           C
+     C#m      A           E
 Erkidetasunaren bozeramaile
-     Am      F        C
+     C#m      A        E
 Xoriak mugaren bestalde (L)
-            Am 
+            C#m 
 Jantzia dute
-            F
+            A
 Doinu dotorez
-            C
+            E
 Gaztelugatxe
-            Am
+            C#m
 Ta estali dute (L)
-            F
+            A
 Larrun bera ere (L)
-            C
+            E
 Kantu lirainеz (L)
- 
+
 [Chorus]
-            F          C
+            A          E
 Mendikate honek lotuta
-G      Am    G     F
+B      C#m    B     A
 Zure zauria nirea da
-C             G
+E             B
 Ta kantu hau biona
-        F           C
+        A           E
 Itsasargia testigu da
-G           Am   G   F
+B           C#m   B   A
 Zeuen urratsa geurea da
-         C        G
+         E        B
 Ta itzulera denona
- 
+
 [Verse]
-F               C          G          Am     G   F      G
+A               E          B          C#m     B   A      B
 Eta ez al gara xorieri mintzo diren xoroak izango, betiko?
-F               C          G          Am     G   F      G
+A               E          B          C#m     B   A      B
 Zuhurrago gara izango xoriekin mintzatuz gehiago, gehiago
- 
+
 [Chorus]
-            F          C
+            A          E
 Mendikate honek lotuta
-G      Am    G     F
+B      C#m    B     A
 Zure zauria nirea da
-C             G
+E             B
 Ta kantu hau biona
-        F           C
+        A           E
 Itsasargia testigu da
-G           Am   G   F
+B           C#m   B   A
 Zeuen urratsa geurea da
-         C        G
+         E        B
 Ta itzulera denona
 ```
