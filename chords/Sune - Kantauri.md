@@ -1,3 +1,4 @@
+```
 [KANTAURI abestiaren letra]
 Intro
 C     G
@@ -76,3 +77,4 @@ Itxaroi dazu
 Ze zuregana noa
 
 Harro badago Kant
+```
