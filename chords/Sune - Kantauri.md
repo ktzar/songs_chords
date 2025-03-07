@@ -1,4 +1,5 @@
 ```
+capo 3
 [KANTAURI abestiaren letra]
 Intro
 C     G
