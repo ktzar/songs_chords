@@ -33,19 +33,19 @@ Oraingoz dramak itzali
 Hortik dela uste baduzu
 
 Ez pentsatu eta segi
-
+F                C           G
 Inoiz egin dudan bidaia luzeena
-
+          Am         F
 Itsaso gorriko olatuetan
-
+              C           G
 Ibili naiz ibili hego-haizetan
-
+             Am7           F
 Kasko bat buruan eta bi oinetan
-
+            C               G
 Erori naiz erori buruhausteetan
-
+              Am7           F
 Erantzunik gabeko barne bidaietan
-
+              C                G
 Baina gaur utziko ditut mamu ilunak
 
 Piztu dezagun benetan gu geu garena
