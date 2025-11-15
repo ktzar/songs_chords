@@ -1,3 +1,4 @@
+```tab
 G
 Vente a mi casa
   Em
